@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 中阿含經
+#+DATE: 2015-08-30 19:28:33.095384
+#+PROPERTY: JUAN 0
